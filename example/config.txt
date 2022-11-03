@@ -1,0 +1,2 @@
+Prefix plugins/TSV2KEGG/example/
+Plugin TSV2KEGG inputfile abund.tsv outputfile abund.pathwayname.tsv
